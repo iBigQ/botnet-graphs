@@ -20,15 +20,15 @@ All: Core + nodes/bots with restricted internet access, i.e., non-superpeers (e.
 ## Individual Snaphots
 Snapshot Name | Time | Description
 -------------------|--------|-----------------
- | | Sality Core: Highest population
- | | Sality Core: Lowest population
- | | ZeroAccess Core: Highest population
- | | ZeroAccess Core: Lowest population
- | | ZeroAccess All: Highest population
- | | ZeroAccess All: Lowest population
+sality_v3_core_max | 2016-02-25 18:38:29 | Sality_V3 Core: Highest population
+sality_v3_core_min | 2016-02-24 03:34:02 | Sality_V3 Core: Lowest population
+za_16464_core_max | 2016-02-24 17:17:23 | ZeroAccess_16464 Core: Highest population
+za_16464_core_min | 2016-02-23 04:19:30 | ZeroAccess_16464 Core: Lowest population
+za_16464_all_max | 2016-02-24 13:52:11 | ZeroAccess_16464 All: Highest population
+za_16464_all_min | 2016-02-28 04:25:44 | ZeroAccess_16464 All: Lowest population
  
 ## Snapshot Series
 Series Name | From | To | Interval
 ------------------|---------|-----|------------
- | 2016-02-13 00:00:00 |2016-02-20 00:00:00 | 12 hours
- | 2016-02-24 00:00:00 | 2016-02-25 | 1 hour
+ sality_v3_core_15x12h | 2016-02-13 00:00:00 | 2016-02-20 00:00:00 | 12 hours
+ sality_v3_core_25x1h | 2016-02-24 00:00:00 | 2016-02-25 00:00:00 | 1 hour
