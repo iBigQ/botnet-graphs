@@ -13,8 +13,8 @@ Currently we have data for two P2P botnets: Sality and ZeroAccess.
 ## Graph Structure
 Graphs in this repository are provided as compressed GraphML files. IP addresses are anonymized and cannot be grouped into subnets. However, hased IP addresses are consitnet in all graphs.
 
-**File Naming Convention:**
-Core: Only nodes/bots that have unfiltered internet access, i.e., superpeers
+**File Naming Convention:**  
+Core: Only nodes/bots that have unfiltered internet access, i.e., superpeers  
 All: Core + nodes/bots with restricted internet access, i.e., non-superpeers (e.g. NATed or behind firewall)
 
 ## Individual Snaphots
