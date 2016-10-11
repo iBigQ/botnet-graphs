@@ -1,7 +1,7 @@
 # P2P-based Botnet Graphs
 This repository contains P2P overlay snaphots of the botnets Sality and ZeroAccess. The data was collected with our monitoring tool *Strobo-Crawler* and the overlay graphs have been reconstructed with *advanced reconstruction* methods.
 
-If you want to get more details about how these graphs have been created or if you use these graphs, please** refer to our paper [1]**.
+If you want to get more details about how these graphs have been created or if you use these graphs, please **refer to our paper [1]**.
 
 ```
 [1] S. Haas, S. Karuppayah, S. Manickam, M. Mühlhäuser, M. Fischer. On the Resilience of P2P-based Botnet Graphs. IEEE Conference on Communications and Network Security (IEEE CNS), 2016
